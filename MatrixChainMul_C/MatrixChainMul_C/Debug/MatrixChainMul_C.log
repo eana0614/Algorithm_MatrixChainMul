@@ -1,0 +1,4 @@
+﻿  MatrixMul.c
+c:\users\eana0614\documents\visual studio 2015\projects\matrixchainmul_c\matrixchainmul_c\matrixmul.c(131): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MatrixChainMul_C.vcxproj -> c:\users\eana0614\documents\visual studio 2015\Projects\MatrixChainMul_C\Debug\MatrixChainMul_C.exe
+  MatrixChainMul_C.vcxproj -> c:\users\eana0614\documents\visual studio 2015\Projects\MatrixChainMul_C\Debug\MatrixChainMul_C.pdb (Full PDB)
